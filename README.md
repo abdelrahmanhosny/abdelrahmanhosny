@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on my PhD at Brown University
-- 🌱 I’m currently learning graph embedding and reinforcement learning
+- 🌱 I’m try to make graph embedding work in reinforcement learning environments
 - 💬 Ask me about how to fail fast
 - 📫 How to reach me: https://www.linkedin.com/in/abdelrahmanhosny/
-- ⚡ Fun fact: I have visited 12 countries in 4 continents
+- ⚡ Fun fact: I won a medal for being in the top 10 debaters in an international championship!
