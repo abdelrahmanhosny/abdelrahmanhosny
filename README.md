@@ -5,3 +5,6 @@
 - 💬 Ask me about how to fail fast
 - 📫 How to reach me: https://www.linkedin.com/in/abdelrahmanhosny/
 - ⚡ Fun fact: I won a medal for being in the top 10 debaters in an international championship!
+
+
+[![Abdelrahman's github stats](https://github-readme-stats.vercel.app/api?username=abdelrahmanhosny&count_private=true&show_icons=true)](https://github.com/abdelrahmanhosny)
